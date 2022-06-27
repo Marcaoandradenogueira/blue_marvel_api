@@ -1,13 +1,13 @@
 # Integracao Dados com do Postgres para o S3 com Debezium 
-Integração de dados em tempo real com Debezium, Postgres e S3 com deploy utilizando o Terraform.
+Integrate data from marvel_api to evalute characters and numbers of comics
 
-### Arquitetura
+### Architecture 
 ![alt text](https://github.com/Marcaoandradenogueira/blue_marvel_api/blob/master/images/Diagram.png?raw=true)
 
 
-### Comandos Terraform
+### Command Terraform
 
-#### Iniciar e construir a infraestrutura
+#### Init and construct terraform
 ```sh
 terraform init
 ```
