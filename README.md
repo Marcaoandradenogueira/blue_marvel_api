@@ -1,4 +1,4 @@
-# Integracao Dados com do Postgres para o S3 com Debezium 
+# Integrate data from API to S3 
 Integrate data from marvel_api to evalute characters and numbers of comics
 
 ### Architecture 
