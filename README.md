@@ -2,7 +2,7 @@
 Integração de dados em tempo real com Debezium, Postgres e S3 com deploy utilizando o Terraform.
 
 ### Arquitetura
-![alt text](https://github.com/cicerojmm/integracaoDadosDebeziumPostgres/blob/main/images/arquitetura.png?raw=true)
+![alt text](https://github.com/Marcaoandradenogueira/blue_marvel_api/blob/master/images/Diagram.png?raw=true)
 
 
 ### Comandos Terraform
